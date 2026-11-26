@@ -1,0 +1,12 @@
+{
+  "name": "jay-2-5",
+  "version": "1.0.0",
+  "description": "Jay 2.5 - personal AI assistant, OpenAI-compatible API, no dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
